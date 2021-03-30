@@ -1,0 +1,14 @@
+C:\Users\Bruno\Documents\c#-avançado\Loja\Loja.BLL\bin\Debug\netcoreapp3.1\Loja.BLL.deps.json
+C:\Users\Bruno\Documents\c#-avançado\Loja\Loja.BLL\bin\Debug\netcoreapp3.1\Loja.BLL.dll
+C:\Users\Bruno\Documents\c#-avançado\Loja\Loja.BLL\bin\Debug\netcoreapp3.1\Loja.BLL.pdb
+C:\Users\Bruno\Documents\c#-avançado\Loja\Loja.BLL\bin\Debug\netcoreapp3.1\Loja.DAL.dll
+C:\Users\Bruno\Documents\c#-avançado\Loja\Loja.BLL\bin\Debug\netcoreapp3.1\Loja.DTO.dll
+C:\Users\Bruno\Documents\c#-avançado\Loja\Loja.BLL\bin\Debug\netcoreapp3.1\Loja.DAL.pdb
+C:\Users\Bruno\Documents\c#-avançado\Loja\Loja.BLL\bin\Debug\netcoreapp3.1\Loja.DTO.pdb
+C:\Users\Bruno\Documents\c#-avançado\Loja\Loja.BLL\obj\Debug\netcoreapp3.1\Loja.BLL.csprojAssemblyReference.cache
+C:\Users\Bruno\Documents\c#-avançado\Loja\Loja.BLL\obj\Debug\netcoreapp3.1\Loja.BLL.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\c#-avançado\Loja\Loja.BLL\obj\Debug\netcoreapp3.1\Loja.BLL.AssemblyInfo.cs
+C:\Users\Bruno\Documents\c#-avançado\Loja\Loja.BLL\obj\Debug\netcoreapp3.1\Loja.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\c#-avançado\Loja\Loja.BLL\obj\Debug\netcoreapp3.1\Loja.BLL.csproj.CopyComplete
+C:\Users\Bruno\Documents\c#-avançado\Loja\Loja.BLL\obj\Debug\netcoreapp3.1\Loja.BLL.dll
+C:\Users\Bruno\Documents\c#-avançado\Loja\Loja.BLL\obj\Debug\netcoreapp3.1\Loja.BLL.pdb

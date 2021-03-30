@@ -1,0 +1,9 @@
+C:\Users\Bruno\Documents\c#-avançado\Loja\Loja.DTO\bin\Debug\netcoreapp3.1\Loja.DTO.deps.json
+C:\Users\Bruno\Documents\c#-avançado\Loja\Loja.DTO\bin\Debug\netcoreapp3.1\Loja.DTO.dll
+C:\Users\Bruno\Documents\c#-avançado\Loja\Loja.DTO\bin\Debug\netcoreapp3.1\Loja.DTO.pdb
+C:\Users\Bruno\Documents\c#-avançado\Loja\Loja.DTO\obj\Debug\netcoreapp3.1\Loja.DTO.csprojAssemblyReference.cache
+C:\Users\Bruno\Documents\c#-avançado\Loja\Loja.DTO\obj\Debug\netcoreapp3.1\Loja.DTO.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\c#-avançado\Loja\Loja.DTO\obj\Debug\netcoreapp3.1\Loja.DTO.AssemblyInfo.cs
+C:\Users\Bruno\Documents\c#-avançado\Loja\Loja.DTO\obj\Debug\netcoreapp3.1\Loja.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\c#-avançado\Loja\Loja.DTO\obj\Debug\netcoreapp3.1\Loja.DTO.dll
+C:\Users\Bruno\Documents\c#-avançado\Loja\Loja.DTO\obj\Debug\netcoreapp3.1\Loja.DTO.pdb
